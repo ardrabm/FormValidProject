@@ -1,1 +1,1 @@
-This is a simple form validation project
+This is a simple form validation project using HTML, CSS, Javascript.
